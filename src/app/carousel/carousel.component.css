@@ -1,0 +1,19 @@
+#carousel-section {
+    text-align: center;
+  }
+  
+  .carousel {
+    display: flex;
+    overflow: hidden;
+  }
+  
+  .carousel-item {
+    flex: 0 0 100%;
+  }
+  
+  .carousel-item img {
+    width: 100px;
+    height: 200px;
+    display: block;
+  }
+  
